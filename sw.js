@@ -1,7 +1,6 @@
 var cacheStorageKey = 'hello-pwa-4'
 
 var cacheList = [
-    '/pwa-online/',
     "/pwa-online/index.html",
     "/pwa-online/main.css",
     "/pwa-online/icon_192x192.png"
