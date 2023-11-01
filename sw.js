@@ -3,8 +3,10 @@ var cacheStorageKey = 'hello-pwa-4'
 var cacheList = [
     "/pwa-online/index.html",
     "/pwa-online/main.css",
-    "/pwa-online/icon_192x192.png"
+    "/pwa-online/icon_192x192.png",
+    "https://github.githubassets.com/favicons/favicon.svg"
 ]
+
 self.addEventListener('install', e => {
     e.waitUntil(
         caches.open(cacheStorageKey)
