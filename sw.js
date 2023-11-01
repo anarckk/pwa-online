@@ -1,9 +1,9 @@
 var cacheStorageKey = 'hello-pwa-4'
 
 var cacheList = [
-    '/',
-    "index.html",
-    "main.css",
+    '/pwa-online/',
+    "/pwa-online/index.html",
+    "/pwa-online/main.css",
     // "e.png"
 ]
 self.addEventListener('install', e => {
