@@ -7,7 +7,7 @@
   "background_color": "#aaaaff",
   "icons": [
     {
-      "src": "/pwa-online/icon_192x192.png",
+      "src": "/pwa-online/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     }

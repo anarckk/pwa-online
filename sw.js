@@ -3,7 +3,7 @@ var cacheStorageKey = 'hello-pwa-4'
 var cacheList = [
     "/pwa-online/index.html",
     "/pwa-online/main.css",
-    "/pwa-online/icon_192x192.png",
+    "/pwa-online/android-chrome-192x192.png",
     "/pwa-online/favicon.ico"
 ]
 
