@@ -4,7 +4,7 @@ var cacheList = [
     '/pwa-online/',
     "/pwa-online/index.html",
     "/pwa-online/main.css",
-    // "e.png"
+    "/pwa-online/icon_192x192.png"
 ]
 self.addEventListener('install', e => {
     e.waitUntil(
